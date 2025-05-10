@@ -21,10 +21,10 @@
 ## 🧱 Objetivos Técnicos
 
 - Git e GitHub: Praticar a criação de repositórios, branches, commits e pull requests.
-- Front-end: Criar telas funcionais com HTML, CSS e JavaScript (com ou sem frameworks).
-- Back-end: Criar um servidor para gerenciar os dados e regras do sistema.
-- Banco de dados: Salvar informações como usuários, projetos e propostas.
-- APIs: Conectar o front-end com o back-end por meio de requisições simples (ex: buscar projetos).
+- Front-end: Implementar interfaces funcionais e responsivas a partir de princípios sólidos de desenvolvimento web, utilizando tecnologias adequadas ao contexto do projeto.
+- Back-end: Estruturar a lógica de negócio, as regras do sistema e os processos de manipulação de dados, garantindo o funcionamento coerente da aplicação conforme os requisitos do projeto.
+- Banco de dados: Modelar, estruturar e gerenciar o armazenamento de informações persistentes do sistema, como dados de usuários, projetos e propostas, garantindo integridade e eficiência no acesso.
+- APIs: Implementar interfaces de comunicação entre o front-end e o back-end, permitindo operações como consulta, envio e atualização de dados, por exemplo, na busca por projetos.
 - Deploy: Aprender a publicar o projeto na internet (com ferramentas simples como Vercel ou Netlify).
 
 ## 🛠️ Objetivos Avançados (⏳)
