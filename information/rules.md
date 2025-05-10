@@ -17,5 +17,5 @@ Para garantir uma experiência organizada e justa para todos os participantes, p
 
 ### **🎁 Informações sobre o Sorteio:**
 
-- **Elegibilidade:** Para participar do sorteio, é imprescindível ter cumprido o requisito obrigatório de contribuição no projeto (criação da _branch_ e adição das informações no `CONTRIBUTORS.md`, conforme detalhado na [text](../activities/atividade-1.md)). Sem essa contribuição, o participante não será elegível.
+- **Elegibilidade:** Para participar do sorteio, é imprescindível ter cumprido o requisito obrigatório de contribuição no projeto (criação da _branch_ e adição das informações no `CONTRIBUTORS.md`, conforme detalhado na [activities-1.md](../activities/activities-1.md)). Sem essa contribuição, o participante não será elegível.
 - **Realização:** O sorteio será realizado ao vivo em nosso servidor do Discord.
