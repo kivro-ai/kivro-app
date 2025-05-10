@@ -6,7 +6,7 @@
 
 Este projeto surgiu da iniciativa de transformar nossa turma de Análise e Desenvolvimento de Sistemas (ADS), com mais de 300 alunos, em uma simulação realista de uma empresa de tecnologia colaborativa. A proposta é desenvolver juntos um Marketplace de Freelancers para Projetos Tech — uma plataforma que conecta profissionais de tecnologia a clientes com demandas específicas.
 
-A iniciativa tem como foco aplicar na prática conhecimentos como Front-end, Back-end, desenvolvimento em grupo e etc., desde o início do curso até a sua conclusão. Divididos em equipes, os participantes poderão contribuir gradualmente, de forma organizada, em um projeto real que servirá como portfólio técnico, e posteriormente uma rede real para programadores freelances. A participação será aberta, voluntária e evolutiva, respeitando o ritmo de cada aluno.
+A iniciativa tem como foco aplicar na prática conhecimentos como Front-end, Back-end, banco de dados, metodologias ágeis e trabalho em equipe, ao longo de toda a duração do curso. Divididos em equipes, os participantes poderão contribuir gradualmente, de forma organizada, em um projeto real que servirá como portfólio técnico, e posteriormente uma rede real para programadores freelances. A participação será aberta, voluntária e evolutiva, respeitando o ritmo de cada aluno.
 
 Esse projeto é mais do que uma atividade prática — é uma oportunidade de aprendizado colaborativo, networking e construção de carreira.
 
