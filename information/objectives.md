@@ -11,14 +11,12 @@
 - Aprender a importância da documentação e da divisão de tarefas no desenvolvimento de software.
 
 ## 💡 Objetivos Gerais do Projeto
-
-- Criar uma plataforma web que conecte freelancers de tecnologia com contratantes de projetos.
-- Construir funcionalidades básicas como:
-
-* Cadastro de usuários (freelancers e clientes);
-* Publicação e busca de projetos;
-* Envio de propostas;
-* Avaliação de freelancers;
+1.  **Criar uma plataforma web que conecte freelancers de tecnologia com contratantes de projetos.**
+2.  **Construir funcionalidades básicas como:**
+    - Cadastro de usuários (freelancers e clientes);
+    - Publicação e busca de projetos;
+    - Envio de propostas;
+    - Avaliação de freelancers;
 
 ## 🧱 Objetivos Técnicos
 
